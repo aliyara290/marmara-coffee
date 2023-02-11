@@ -47,10 +47,10 @@ html {
     color: #292E36;
     padding: 15px 70px;
     background-color: #e1b168;
+    border: 2px solid #e1b168;
 }
 .location a:hover {
     background-color: transparent;
-    border: 2px solid #e1b168;
     color: #f3f4f5;
 }
  
