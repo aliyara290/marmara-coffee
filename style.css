@@ -331,7 +331,7 @@ button a:hover {
 }
 .view-btn a:hover {
     background-color: transparent;
-    border: 1.2px solid #e1b168;
+    border: 2px solid #e1b168;
     color: #292E36;
 }
 
